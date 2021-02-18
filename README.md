@@ -1,16 +1,13 @@
-# windows_app
+# Tesla Flutter Clone
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is just a demo of a basic flutter app of the Tesla Website.
+It is for learning how to use flutter. This project can be compiled to
+Windows, Linux, and MacOS. Note that you must be in the dev channel of
+flutter in order to build it. In addition to those platforms, you can build
+it to Android and iOS as well.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[ <src="https://github.com/RNubla/Tesla-Flutter-Clone/blob/main/gitAssets/img1.PNG"/>]
