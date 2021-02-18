@@ -10,4 +10,4 @@ Windows, Linux, and MacOS. Note that you must be in the dev channel of
 flutter in order to build it. In addition to those platforms, you can build
 it to Android and iOS as well.
 
-[ <src="https://github.com/RNubla/Tesla-Flutter-Clone/blob/main/gitAssets/img1.PNG"/>]
+![ Ex1 ](https://github.com/RNubla/Tesla-Flutter-Clone/blob/main/gitAssets/img1.PNG)
